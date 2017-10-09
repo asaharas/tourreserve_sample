@@ -1,4 +1,11 @@
 ## Tour Reservation Sample Application
+This is a blank project for practice.
+
+You can make [tourrseservation app](https://github.com/terasolunaorg/terasoluna-tourreservation-mybatis3).
+
+README is quoted below.
+---
+
 This is a reference application built completely using TERASOLUNA Server Framework for Java (5.x) ([http://terasoluna.org](http://terasoluna.org "http://terasoluna.org")).
 
 This application shows **how an IDEAL project configuration and package structure must be like.** It also shows working sample of best practices recommended in TERASOLUNA Server Framework for Java (5.x) Development Guideline.
