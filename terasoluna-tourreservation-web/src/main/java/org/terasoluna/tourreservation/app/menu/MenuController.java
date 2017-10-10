@@ -34,6 +34,6 @@ public class MenuController {
     @RequestMapping(value = "/", method = RequestMethod.GET)
     public String init() {
         logger.info("initial view");
-        return "SC_A99_01/SC_A99_01_01";
+        return "menu/menu";
     }
 }
