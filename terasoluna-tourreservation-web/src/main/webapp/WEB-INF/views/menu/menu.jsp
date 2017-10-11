@@ -3,10 +3,10 @@
     メニュー画面です。
   </p>
   <div class="span-24 last">
-    <form:form method="get" action="${pageContext.request.contextPath}/customers/1">
+    <form:form method="get" action="${pageContext.request.contextPath}/customers/00000001">
       <fieldset class="notice">
         <div class="span-5">
-          <button id="customerRegisterBtn" style="width: 150px;">
+          <button id="forward_reference" style="width: 150px;">
             顧客照会する
           </button>
         </div>
